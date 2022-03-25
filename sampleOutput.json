@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Katie Benner",
+            "title": "Justice Dept. Announces Raft of Changes Meant to Deter Cyberthreats",
+            "description": "The moves came a week after the department made its largest financial seizure ever, confiscating over $3.6 billion worth of Bitcoin stolen in a 2016 hacking.",
+            "url": "https://www.nytimes.com/2022/02/17/us/politics/justice-department-cybersecurity.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/17/us/politics/17dc-justice/merlin_199612353_b05bfb07-3da8-404e-8a75-221181e5d014-facebookJumbo.jpg",
+            "publishedAt": "2022-02-17T23:51:49Z",
+            "content": "Even in cyberspace, the Department of Justice is able to use a tried and true investigative technique, following the money, Ms. Monaco said. Its what led us to Al Capone in the 30s. It helped us dest… [+1176 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Elizabeth Lopatto",
+            "title": "If you’re a Russian YouTuber, how do you get paid now?",
+            "description": "Russian creators are shut off from the global financial system. Some of them are turning to cryptocurrency.",
+            "url": "https://www.theverge.com/2022/3/17/22982122/russia-youtube-crypto-creators-pay-ruble",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/MG_NhB7wSIBIl3S_LG-y-r7iPmg=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9442221/cryptocurrency_0004__00000_.jpg",
+            "publishedAt": "2022-03-17T13:33:43Z",
+            "content": "When Russia invaded Ukraine, Niki Proshin was already a year into making a living as a vlogger — he had a YouTube channel, a TikTok channel, and an Instagram. He also ran an online Russian club for a… [+5883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Why Isn't Bitcoin Booming?",
+            "description": "\"Bitcoin was seen by many of its libertarian-leaning fans as a kind of doomsday insurance,\" argues a columnist in the New York Times, \"a form of 'digital gold' that would be a source of stability as the world grew more chaotic and unpredictable.... \n\n\"But Bit…",
+            "url": "https://news.slashdot.org/story/22/03/12/0541251/why-isnt-bitcoin-booming",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2022-03-12T18:34:00Z",
+            "content": "\"Bitcoin was seen by many of its libertarian-leaning fans as a kind of doomsday insurance,\" argues a columnist in the New York Times, \"a form of 'digital gold' that would be a source of stability as … [+3914 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "CRYPTOVERSE-Bitcoin could be laid low by miners' malady - Reuters",
+            "description": "Bitcoin miners are feeling the heat - and the pain's rippling downstream to pressure prices.",
+            "url": "https://www.reuters.com/markets/europe/cryptoverse-bitcoin-could-be-laid-low-by-miners-malady-2022-02-22/",
+            "urlToImage": "https://www.reuters.com/resizer/9nBpgfg7pSfpPQXnDcfMde9l3v0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OXI44UUFUBOOBJGVTYCNM4IIBI.jpg",
+            "publishedAt": "2022-02-22T06:17:00Z",
+            "content": "Feb 22 (Reuters) - Bitcoin miners are feeling the heat - and the pain's rippling downstream to pressure prices.\r\nThe cryptocurrency's spectacular rally in 2021 drew thousands of entrants into mining,… [+4196 chars]"
+        }
+        
+    ]
+}
